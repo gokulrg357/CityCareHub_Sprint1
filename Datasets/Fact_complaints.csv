@@ -1,0 +1,330 @@
+"complaint_id";"citizen_id";"department_id";"complaint_type";"description";"status";"assigned_team_id";"created_at";"resolved_at";"zone_id";"resolution_time_hours"
+9;566;2;"Streetlight Outage";"Streetlight Outage reported at 802 Wendy Station Apt. 598";"Resolved";3;"2025-01-31 03:10:54";"2025-05-05 15:16:08";5;2268
+11;621;3;"Water Leakage";"Water Leakage reported at 86529 Matthew Loaf Apt. 956";"Resolved";1;"2025-06-08 03:19:40";"2025-06-08 06:51:09";1;3
+13;19;4;"Water Leakage";"Water Leakage reported at 583 Hernandez Fall";"Resolved";5;"2025-03-06 14:38:19";"2025-05-02 16:01:25";2;1369
+15;575;2;"Water Leakage";"Water Leakage reported at 14759 Justin Cove Apt. 336";"Resolved";4;"2025-04-24 15:13:40";"2025-06-16 02:15:14";1;1259
+19;620;1;"Garbage Pickup";"Garbage Pickup reported at 8426 Gonzales Turnpike Suite 328";"Resolved";3;"2025-04-16 04:11:47";"2025-05-03 10:15:02";5;414
+20;672;1;"Road Damage";"Road Damage reported at 913 Parsons Falls Suite 758";"Resolved";5;"2025-02-17 14:57:01";"2025-04-25 14:15:47";5;1607
+21;266;1;"Road Damage";"Road Damage reported at 71375 Nicholas Avenue Suite 430";"Resolved";4;"2025-04-10 20:42:27";"2025-05-21 15:29:49";2;978
+23;420;2;"Streetlight Outage";"Streetlight Outage reported at 318 Frederick Keys";"Resolved";1;"2025-04-09 15:28:35";"2025-06-14 19:16:49";3;1587
+25;761;2;"Road Damage";"Road Damage reported at 127 Huynh Island";"Resolved";5;"2025-01-17 19:24:10";"2025-03-23 08:50:08";5;1549
+26;108;2;"Water Leakage";"Water Leakage reported at 2554 Hernandez Stravenue";"Resolved";3;"2025-04-30 03:44:58";"2025-05-22 13:20:05";5;537
+28;306;4;"Streetlight Outage";"Streetlight Outage reported at 307 Richardson Oval";"Resolved";2;"2025-04-01 21:14:49";"2025-04-26 18:23:57";1;597
+29;264;3;"Water Leakage";"Water Leakage reported at 12248 Casey Mountain Suite 282";"Resolved";2;"2025-05-27 00:42:58";"2025-06-04 15:40:44";1;206
+36;80;3;"Water Leakage";"Water Leakage reported at 458 Frazier Island";"Resolved";2;"2025-06-12 15:08:27";"2025-06-15 14:40:07";1;71
+37;976;1;"Garbage Pickup";"Garbage Pickup reported at 76738 Howell Plaza";"Resolved";3;"2025-05-17 07:45:14";"2025-06-03 23:52:16";1;424
+38;258;3;"Streetlight Outage";"Streetlight Outage reported at 0458 Scott Ports Apt. 959";"Resolved";1;"2025-05-10 11:29:28";"2025-05-12 16:23:22";4;52
+43;668;3;"Water Leakage";"Water Leakage reported at 604 Brian Walks";"Resolved";3;"2025-05-27 11:22:02";"2025-06-03 15:04:04";4;171
+45;218;2;"Water Leakage";"Water Leakage reported at 97788 Mendoza Rue";"Resolved";4;"2025-06-07 07:19:36";"2025-06-13 19:11:42";5;155
+47;751;3;"Road Damage";"Road Damage reported at 0197 Herrera Valley Suite 398";"Resolved";5;"2025-03-05 21:50:47";"2025-05-17 04:32:08";3;1734
+48;645;2;"Road Damage";"Road Damage reported at 645 Christopher View Apt. 902";"Resolved";4;"2025-04-25 16:45:29";"2025-06-15 17:19:36";5;1224
+50;439;4;"Garbage Pickup";"Garbage Pickup reported at 06058 Katie Grove";"Resolved";2;"2025-05-12 04:06:05";"2025-05-23 08:54:56";2;268
+60;259;3;"Road Damage";"Road Damage reported at 3565 April Cliff Suite 344";"Resolved";5;"2025-02-15 18:07:29";"2025-04-21 13:09:08";3;1555
+61;404;3;"Garbage Pickup";"Garbage Pickup reported at 0583 Mccormick Forge";"Resolved";3;"2025-02-03 11:30:27";"2025-04-02 23:59:58";3;1404
+64;45;1;"Garbage Pickup";"Garbage Pickup reported at 6942 Kristen Flat Apt. 511";"Resolved";2;"2025-02-22 12:48:53";"2025-03-01 09:44:19";2;164
+66;194;1;"Water Leakage";"Water Leakage reported at 29454 Mary Inlet";"Resolved";2;"2025-01-21 05:31:04";"2025-04-08 04:12:51";2;1846
+67;619;4;"Road Damage";"Road Damage reported at 2809 Shaw Falls Apt. 276";"Resolved";5;"2025-06-08 17:23:45";"2025-06-15 13:21:44";2;163
+70;343;4;"Streetlight Outage";"Streetlight Outage reported at 67171 Garrett Rest Suite 758";"Resolved";4;"2025-02-04 07:42:18";"2025-05-05 09:56:14";4;2162
+78;659;4;"Road Damage";"Road Damage reported at 425 Joseph Centers";"Resolved";3;"2025-04-10 02:59:21";"2025-05-17 17:13:33";4;902
+79;983;3;"Road Damage";"Road Damage reported at 9286 Robertson Roads Suite 522";"Resolved";5;"2025-06-08 18:40:41";"2025-06-09 03:45:01";1;9
+80;627;1;"Garbage Pickup";"Garbage Pickup reported at 60380 Maxwell Mill Apt. 926";"Resolved";2;"2025-01-28 04:36:05";"2025-05-24 23:54:58";2;2803
+81;300;4;"Water Leakage";"Water Leakage reported at 626 Perez Cliffs Suite 586";"Resolved";1;"2025-05-10 07:25:39";"2025-06-12 12:33:36";3;797
+82;536;3;"Road Damage";"Road Damage reported at 54182 Jones River";"Resolved";4;"2025-02-16 05:00:51";"2025-06-01 16:50:26";2;2531
+85;724;3;"Garbage Pickup";"Garbage Pickup reported at 422 Fisher Grove";"Resolved";4;"2025-03-27 16:20:09";"2025-06-12 16:41:33";2;1848
+86;629;3;"Garbage Pickup";"Garbage Pickup reported at 1913 Richard Springs";"Resolved";1;"2025-04-20 08:24:29";"2025-05-31 04:50:33";2;980
+88;750;4;"Streetlight Outage";"Streetlight Outage reported at 440 Smith Flat";"Resolved";4;"2025-05-15 02:57:01";"2025-05-29 14:17:38";2;347
+89;66;1;"Garbage Pickup";"Garbage Pickup reported at 2282 Lee Lock Apt. 264";"Resolved";1;"2025-04-21 21:52:52";"2025-05-01 06:57:53";1;225
+91;388;3;"Water Leakage";"Water Leakage reported at 8279 Melissa Estates Apt. 384";"Resolved";4;"2025-02-16 23:15:02";"2025-03-22 22:31:01";1;815
+97;366;2;"Garbage Pickup";"Garbage Pickup reported at 838 Gregory Lodge";"Resolved";2;"2025-02-01 00:43:15";"2025-02-04 08:11:08";2;79
+101;829;4;"Garbage Pickup";"Garbage Pickup reported at 250 Heather Dam Suite 603";"Resolved";5;"2025-05-06 04:12:41";"2025-06-14 23:06:45";3;954
+103;759;2;"Road Damage";"Road Damage reported at 077 Richard Lights";"Resolved";5;"2025-01-18 21:00:55";"2025-04-26 17:03:56";4;2348
+108;950;1;"Streetlight Outage";"Streetlight Outage reported at 168 Lowery Junction";"Resolved";3;"2025-01-18 11:01:07";"2025-05-27 02:52:10";4;3087
+110;592;2;"Garbage Pickup";"Garbage Pickup reported at 4352 John Crest Suite 316";"Resolved";2;"2025-02-21 14:45:05";"2025-03-30 15:56:37";4;889
+111;128;4;"Water Leakage";"Water Leakage reported at 9114 Calvin Field";"Resolved";1;"2025-02-22 03:37:44";"2025-05-05 23:34:05";4;1747
+116;704;3;"Water Leakage";"Water Leakage reported at 22245 Morgan Unions Apt. 908";"Resolved";4;"2025-01-30 01:13:12";"2025-02-11 21:55:44";5;308
+117;738;4;"Garbage Pickup";"Garbage Pickup reported at 1674 Larry Underpass";"Resolved";3;"2025-05-03 02:31:49";"2025-05-24 14:53:12";2;516
+119;887;2;"Road Damage";"Road Damage reported at 97542 Katie Squares";"Resolved";2;"2025-04-13 07:36:49";"2025-05-14 18:21:39";3;754
+121;133;2;"Water Leakage";"Water Leakage reported at 6929 Hammond Prairie";"Resolved";2;"2025-01-27 15:59:44";"2025-05-21 22:29:22";4;2742
+122;865;1;"Garbage Pickup";"Garbage Pickup reported at 7243 Dominguez Causeway Apt. 710";"Resolved";5;"2025-05-12 03:18:02";"2025-05-29 02:27:14";2;407
+123;665;4;"Garbage Pickup";"Garbage Pickup reported at 9588 Lori Course Apt. 677";"Resolved";2;"2025-04-25 20:12:37";"2025-05-28 13:16:58";2;785
+124;51;2;"Water Leakage";"Water Leakage reported at 4760 Melvin Mill Apt. 664";"Resolved";2;"2025-03-01 09:22:53";"2025-06-12 14:52:16";2;2477
+133;697;3;"Water Leakage";"Water Leakage reported at 06405 Amber Ports";"Resolved";2;"2025-05-08 10:48:50";"2025-06-08 19:04:04";3;752
+134;737;2;"Garbage Pickup";"Garbage Pickup reported at 22514 Jessica Plains";"Resolved";2;"2025-05-20 21:07:49";"2025-05-29 21:02:26";1;215
+139;729;1;"Water Leakage";"Water Leakage reported at 92230 Williams Mountain";"Resolved";5;"2025-03-07 08:07:02";"2025-03-23 02:31:44";1;378
+141;95;3;"Road Damage";"Road Damage reported at 1984 Mark Village Suite 401";"Resolved";1;"2025-03-01 10:40:27";"2025-03-27 21:22:06";5;634
+145;80;1;"Streetlight Outage";"Streetlight Outage reported at 42253 Lydia Forges Suite 205";"Resolved";3;"2025-04-11 08:12:30";"2025-06-15 00:23:46";1;1552
+146;221;1;"Streetlight Outage";"Streetlight Outage reported at 156 Alicia Road";"Resolved";2;"2025-06-10 00:59:59";"2025-06-13 02:54:09";4;73
+150;798;1;"Water Leakage";"Water Leakage reported at 010 Mcguire Plains";"Resolved";3;"2025-05-04 04:01:45";"2025-05-30 00:01:17";4;619
+160;668;2;"Road Damage";"Road Damage reported at 50988 Zachary Stream Apt. 402";"Resolved";5;"2025-04-21 03:43:54";"2025-04-21 12:48:29";3;9
+166;598;3;"Garbage Pickup";"Garbage Pickup reported at 782 Miller Isle Suite 541";"Resolved";5;"2025-02-12 06:24:05";"2025-05-13 04:21:07";1;2157
+167;181;2;"Water Leakage";"Water Leakage reported at 057 Paul Parkways Suite 507";"Resolved";5;"2025-03-11 09:21:19";"2025-04-15 22:14:32";4;852
+172;226;3;"Streetlight Outage";"Streetlight Outage reported at 77097 Evans Cliffs";"Resolved";1;"2025-06-02 20:36:10";"2025-06-15 00:01:42";3;291
+177;84;2;"Streetlight Outage";"Streetlight Outage reported at 5580 Christina Points Apt. 667";"Resolved";4;"2025-06-01 05:17:29";"2025-06-10 21:14:54";5;231
+181;998;3;"Road Damage";"Road Damage reported at 78436 Heath Corners";"Resolved";5;"2025-06-02 00:06:12";"2025-06-14 22:21:40";4;310
+185;960;1;"Streetlight Outage";"Streetlight Outage reported at 22617 Leach Path";"Resolved";1;"2025-03-19 16:08:09";"2025-05-25 02:40:04";2;1594
+188;359;3;"Streetlight Outage";"Streetlight Outage reported at 60425 Miller Drive";"Resolved";2;"2025-02-04 12:12:26";"2025-03-15 15:01:40";4;938
+190;498;1;"Road Damage";"Road Damage reported at 74380 Charles Radial";"Resolved";2;"2025-06-01 06:57:15";"2025-06-04 22:05:59";2;87
+191;580;4;"Streetlight Outage";"Streetlight Outage reported at 9556 Austin Ports Apt. 739";"Resolved";1;"2025-03-04 03:17:56";"2025-03-29 11:04:23";4;607
+193;683;1;"Water Leakage";"Water Leakage reported at 7505 Samantha Ranch";"Resolved";2;"2025-04-02 00:41:24";"2025-05-29 17:15:57";1;1384
+194;864;3;"Streetlight Outage";"Streetlight Outage reported at 716 Joseph Roads Apt. 175";"Resolved";5;"2025-05-13 00:52:32";"2025-05-28 09:33:17";3;368
+195;630;2;"Streetlight Outage";"Streetlight Outage reported at 145 Tricia Gardens";"Resolved";1;"2025-04-09 03:49:27";"2025-04-10 16:07:06";1;36
+198;639;1;"Streetlight Outage";"Streetlight Outage reported at 1378 Jimenez Common Suite 318";"Resolved";5;"2025-01-23 07:35:00";"2025-02-28 11:10:45";5;867
+201;967;3;"Water Leakage";"Water Leakage reported at 9159 White Shore";"Resolved";4;"2025-01-22 06:57:03";"2025-02-06 04:51:28";4;357
+206;363;2;"Garbage Pickup";"Garbage Pickup reported at 74227 Martinez Street Apt. 566";"Resolved";1;"2025-06-16 10:52:35";"2025-06-16 11:46:59";5;0
+211;298;3;"Water Leakage";"Water Leakage reported at 87776 Johnson Canyon Apt. 889";"Resolved";3;"2025-01-23 09:28:59";"2025-05-03 14:51:49";2;2405
+222;247;4;"Road Damage";"Road Damage reported at 66695 Moore Road Suite 488";"Resolved";2;"2025-05-17 05:10:02";"2025-06-14 03:04:26";5;669
+224;838;3;"Garbage Pickup";"Garbage Pickup reported at 51562 Jessica Passage Apt. 256";"Resolved";5;"2025-03-18 21:04:45";"2025-05-30 00:41:06";2;1731
+231;266;2;"Streetlight Outage";"Streetlight Outage reported at 16675 Stewart Branch Apt. 612";"Resolved";4;"2025-01-26 03:42:34";"2025-02-26 12:00:06";4;752
+232;152;3;"Water Leakage";"Water Leakage reported at 22098 Erica Spur Apt. 766";"Resolved";5;"2025-02-13 11:17:36";"2025-04-25 18:01:52";1;1710
+235;757;1;"Road Damage";"Road Damage reported at 17237 Duane Stravenue Suite 565";"Resolved";1;"2025-05-29 07:16:37";"2025-05-30 07:27:15";1;24
+238;1;2;"Water Leakage";"Water Leakage reported at 847 Sara Branch";"Resolved";5;"2025-03-15 20:35:13";"2025-04-06 14:54:46";4;522
+243;370;2;"Road Damage";"Road Damage reported at 853 Warren Lights Suite 212";"Resolved";5;"2025-02-20 16:11:16";"2025-04-10 03:32:11";4;1163
+254;904;2;"Streetlight Outage";"Streetlight Outage reported at 332 Pamela Circles";"Resolved";1;"2025-02-28 03:54:29";"2025-03-23 01:43:52";5;549
+256;501;1;"Water Leakage";"Water Leakage reported at 3834 Ronald Lake Suite 605";"Resolved";5;"2025-05-02 14:40:32";"2025-05-26 05:34:55";1;566
+257;30;3;"Road Damage";"Road Damage reported at 98689 Carpenter Village Suite 249";"Resolved";5;"2025-01-29 23:34:08";"2025-06-08 01:03:21";1;3097
+259;289;3;"Garbage Pickup";"Garbage Pickup reported at 963 Ryan Streets";"Resolved";2;"2025-01-23 18:55:18";"2025-03-02 11:22:53";2;904
+270;414;4;"Water Leakage";"Water Leakage reported at 9656 Julia Turnpike Apt. 377";"Resolved";3;"2025-03-26 01:53:23";"2025-05-15 07:30:31";1;1205
+272;97;1;"Road Damage";"Road Damage reported at 376 Tiffany Stravenue";"Resolved";2;"2025-05-10 17:08:54";"2025-05-18 16:20:30";4;191
+277;849;3;"Water Leakage";"Water Leakage reported at 3798 Jenkins Court";"Resolved";5;"2025-01-11 12:12:13";"2025-02-06 05:29:58";2;617
+278;819;3;"Streetlight Outage";"Streetlight Outage reported at 844 Ryan Haven Apt. 029";"Resolved";3;"2025-03-01 18:54:17";"2025-05-30 12:09:14";5;2153
+280;443;3;"Garbage Pickup";"Garbage Pickup reported at 4915 Sheryl Burg";"Resolved";5;"2025-04-30 16:35:00";"2025-05-02 17:46:29";2;49
+282;440;2;"Garbage Pickup";"Garbage Pickup reported at 4443 Adams Burg Apt. 031";"Resolved";3;"2025-03-18 23:53:03";"2025-03-28 05:45:40";5;221
+283;459;4;"Road Damage";"Road Damage reported at 03732 Jacqueline Mountains";"Resolved";1;"2025-05-06 16:31:47";"2025-05-08 05:56:25";5;37
+285;487;2;"Garbage Pickup";"Garbage Pickup reported at 0583 Buchanan Glen";"Resolved";3;"2025-03-01 11:38:31";"2025-03-09 06:47:11";2;187
+287;586;2;"Garbage Pickup";"Garbage Pickup reported at 5410 Ho Junction";"Resolved";5;"2025-04-13 10:44:06";"2025-05-10 10:38:06";3;647
+288;639;2;"Garbage Pickup";"Garbage Pickup reported at 84220 Jessica Mountain Suite 638";"Resolved";3;"2025-02-18 10:07:46";"2025-05-23 00:07:43";3;2245
+289;658;3;"Streetlight Outage";"Streetlight Outage reported at 880 Reed Forge Apt. 790";"Resolved";1;"2025-05-07 23:56:51";"2025-05-24 04:35:54";3;388
+291;749;1;"Garbage Pickup";"Garbage Pickup reported at 69714 Timothy Ports";"Resolved";2;"2025-05-12 13:42:58";"2025-06-05 16:17:35";1;578
+296;397;1;"Water Leakage";"Water Leakage reported at 059 Brittany Rapid";"Resolved";2;"2025-06-05 10:50:46";"2025-06-15 09:59:03";3;239
+301;31;3;"Road Damage";"Road Damage reported at 9468 Catherine Neck";"Resolved";2;"2025-04-09 09:22:51";"2025-05-16 18:16:35";1;896
+303;133;4;"Water Leakage";"Water Leakage reported at 0638 Salazar Flat";"Resolved";2;"2025-01-28 15:13:21";"2025-04-13 12:52:16";1;1797
+306;990;3;"Garbage Pickup";"Garbage Pickup reported at 1051 Donald Manor";"Resolved";3;"2025-06-11 19:29:53";"2025-06-12 18:33:33";1;23
+313;135;3;"Streetlight Outage";"Streetlight Outage reported at 3381 Petersen Fords Suite 709";"Resolved";1;"2025-01-18 11:43:32";"2025-04-07 03:02:15";3;1887
+314;193;4;"Water Leakage";"Water Leakage reported at 76477 Samuel Park Suite 331";"Resolved";1;"2025-04-07 11:24:26";"2025-05-15 15:28:02";3;916
+315;94;3;"Water Leakage";"Water Leakage reported at 24405 Christian Row Apt. 210";"Resolved";1;"2025-02-27 01:23:10";"2025-03-03 21:53:27";4;116
+321;619;3;"Water Leakage";"Water Leakage reported at 548 Wilkins Valley";"Resolved";4;"2025-05-22 00:26:51";"2025-05-29 12:59:09";1;180
+323;713;3;"Water Leakage";"Water Leakage reported at 242 Barbara Brook";"Resolved";2;"2025-01-02 06:12:50";"2025-01-09 15:21:57";5;177
+326;82;3;"Garbage Pickup";"Garbage Pickup reported at 06874 Scott Square Apt. 496";"Resolved";4;"2025-03-14 14:35:03";"2025-06-09 11:19:51";1;2084
+331;51;2;"Garbage Pickup";"Garbage Pickup reported at 92794 Kimberly Estates";"Resolved";1;"2025-02-08 08:50:52";"2025-03-10 10:36:10";5;721
+338;461;3;"Water Leakage";"Water Leakage reported at 153 Andrews Course";"Resolved";3;"2025-05-08 13:47:30";"2025-05-18 20:27:47";5;246
+339;573;3;"Water Leakage";"Water Leakage reported at 41111 Glenn Club Apt. 201";"Resolved";3;"2025-05-19 03:17:30";"2025-06-04 20:29:18";3;401
+341;225;2;"Road Damage";"Road Damage reported at 60284 Shirley Summit";"Resolved";2;"2025-03-11 19:33:50";"2025-04-15 17:16:06";2;837
+342;832;2;"Streetlight Outage";"Streetlight Outage reported at 207 Jesus Circle";"Resolved";3;"2025-05-01 03:25:55";"2025-05-08 19:50:32";4;184
+356;146;1;"Garbage Pickup";"Garbage Pickup reported at 4787 Erin Lights";"Resolved";1;"2025-05-18 01:18:44";"2025-06-06 06:31:05";2;461
+358;376;2;"Road Damage";"Road Damage reported at 43511 Michael Plains Suite 124";"Resolved";5;"2025-02-09 06:45:49";"2025-04-01 06:57:06";1;1224
+359;858;4;"Garbage Pickup";"Garbage Pickup reported at 41071 Aaron Locks";"Resolved";4;"2025-06-08 08:15:51";"2025-06-10 23:08:33";2;62
+360;212;2;"Road Damage";"Road Damage reported at 252 Nicholson Road Suite 093";"Resolved";5;"2025-05-08 12:41:47";"2025-06-07 17:01:14";3;724
+366;284;3;"Road Damage";"Road Damage reported at 59499 David Ford";"Resolved";2;"2025-04-14 05:06:58";"2025-04-14 15:39:50";5;10
+370;314;3;"Water Leakage";"Water Leakage reported at 3641 Stanton Drive";"Resolved";5;"2025-02-09 17:13:09";"2025-03-17 11:07:36";1;857
+371;433;2;"Water Leakage";"Water Leakage reported at 510 Brian Glens Apt. 159";"Resolved";2;"2025-04-06 21:53:14";"2025-06-14 16:08:42";4;1650
+372;882;3;"Road Damage";"Road Damage reported at 1797 Jones Club Suite 832";"Resolved";2;"2025-05-02 10:17:59";"2025-06-03 06:11:52";1;763
+373;704;4;"Streetlight Outage";"Streetlight Outage reported at 96085 Zuniga Wells";"Resolved";5;"2025-02-12 08:45:30";"2025-02-17 07:39:13";1;118
+374;819;3;"Streetlight Outage";"Streetlight Outage reported at 798 Angela Lock";"Resolved";3;"2025-05-07 05:32:08";"2025-05-07 05:39:41";5;0
+375;87;2;"Road Damage";"Road Damage reported at 9928 Maxwell Loop";"Resolved";1;"2025-05-22 16:45:15";"2025-06-11 03:35:29";2;466
+385;970;3;"Streetlight Outage";"Streetlight Outage reported at 4136 William Terrace";"Resolved";3;"2025-02-13 00:27:11";"2025-05-16 15:43:51";3;2223
+387;448;4;"Streetlight Outage";"Streetlight Outage reported at 25808 Aguilar Forges";"Resolved";5;"2025-02-27 17:43:19";"2025-03-31 15:22:39";4;765
+394;721;3;"Water Leakage";"Water Leakage reported at 145 Lee Glen Apt. 280";"Resolved";3;"2025-01-08 07:18:19";"2025-05-19 22:59:02";2;3159
+395;179;2;"Streetlight Outage";"Streetlight Outage reported at 252 Arnold Expressway";"Resolved";3;"2025-01-19 04:15:36";"2025-02-08 17:33:32";3;493
+396;817;2;"Water Leakage";"Water Leakage reported at 9167 Jonathan Rapids";"Resolved";5;"2025-03-22 09:59:09";"2025-04-24 13:55:30";5;795
+404;713;4;"Garbage Pickup";"Garbage Pickup reported at 24652 Lori Ranch";"Resolved";2;"2025-03-22 13:26:58";"2025-06-09 21:25:36";1;1903
+405;649;1;"Road Damage";"Road Damage reported at 2177 John Centers Apt. 164";"Resolved";3;"2025-04-26 13:55:17";"2025-05-03 12:35:46";5;166
+409;943;1;"Water Leakage";"Water Leakage reported at 66023 Thomas Stream";"Resolved";3;"2025-05-24 09:24:43";"2025-06-09 09:10:32";2;383
+411;968;1;"Road Damage";"Road Damage reported at 62069 Steven Lights Suite 251";"Resolved";1;"2025-04-27 00:48:43";"2025-05-11 07:29:45";1;342
+415;188;4;"Road Damage";"Road Damage reported at 84069 Paul Vista";"Resolved";3;"2025-06-11 07:14:17";"2025-06-13 00:28:17";1;41
+416;795;2;"Water Leakage";"Water Leakage reported at 5605 Chase Union Suite 218";"Resolved";5;"2025-02-14 14:31:07";"2025-02-24 06:16:00";4;231
+417;762;3;"Water Leakage";"Water Leakage reported at 02334 Gates Fork";"Resolved";3;"2025-03-18 08:16:45";"2025-05-10 13:50:19";3;1277
+418;543;4;"Garbage Pickup";"Garbage Pickup reported at 14307 Kara Walk";"Resolved";3;"2025-03-30 04:33:15";"2025-05-28 23:53:51";4;1435
+428;171;1;"Water Leakage";"Water Leakage reported at 8685 Krueger Dam";"Resolved";3;"2025-01-18 09:57:09";"2025-04-09 06:18:53";3;1940
+429;891;2;"Road Damage";"Road Damage reported at 771 Gill Knoll Apt. 377";"Resolved";2;"2025-05-19 12:22:33";"2025-05-21 23:03:53";1;58
+434;884;1;"Road Damage";"Road Damage reported at 856 Alvarado Path";"Resolved";3;"2025-05-04 17:43:41";"2025-05-28 18:44:38";1;577
+435;303;2;"Garbage Pickup";"Garbage Pickup reported at 307 Glass Run";"Resolved";1;"2025-06-10 15:19:54";"2025-06-12 11:03:58";5;43
+436;4;3;"Water Leakage";"Water Leakage reported at 4817 Megan Turnpike";"Resolved";3;"2025-01-11 03:38:20";"2025-03-08 05:12:30";3;1345
+438;95;4;"Garbage Pickup";"Garbage Pickup reported at 04711 Shane Forest";"Resolved";4;"2025-02-02 17:23:17";"2025-05-12 09:55:56";3;2368
+440;153;3;"Garbage Pickup";"Garbage Pickup reported at 51604 Robert Rapids";"Resolved";4;"2025-04-20 16:29:15";"2025-06-08 18:31:46";1;1178
+441;299;4;"Road Damage";"Road Damage reported at 410 Parsons Vista Suite 400";"Resolved";2;"2025-05-19 09:22:40";"2025-06-05 07:47:43";4;406
+457;623;1;"Road Damage";"Road Damage reported at 4139 Michael Camp";"Resolved";2;"2025-04-23 10:29:25";"2025-05-12 15:48:22";3;461
+459;259;4;"Water Leakage";"Water Leakage reported at 0050 Jason Heights Apt. 149";"Resolved";5;"2025-04-21 16:15:47";"2025-06-15 10:51:16";1;1314
+465;329;3;"Streetlight Outage";"Streetlight Outage reported at 2363 Jennifer Villages Apt. 969";"Resolved";2;"2025-06-08 02:32:52";"2025-06-12 04:09:51";4;97
+466;303;3;"Water Leakage";"Water Leakage reported at 999 Reynolds Fall";"Resolved";4;"2025-06-07 22:56:22";"2025-06-11 04:26:04";4;77
+469;393;1;"Garbage Pickup";"Garbage Pickup reported at 08260 Barrera Burgs Apt. 012";"Resolved";1;"2025-02-03 19:34:35";"2025-03-31 18:52:34";4;1343
+470;622;1;"Water Leakage";"Water Leakage reported at 658 Caitlin Pine";"Resolved";1;"2025-04-08 10:45:22";"2025-05-12 14:32:01";2;819
+472;963;4;"Garbage Pickup";"Garbage Pickup reported at 2218 Robertson Loop Suite 174";"Resolved";1;"2025-04-06 22:20:18";"2025-05-27 08:41:36";3;1210
+473;441;2;"Road Damage";"Road Damage reported at 6477 Johnston Forge";"Resolved";5;"2025-06-11 13:47:57";"2025-06-11 18:15:19";2;4
+474;389;2;"Water Leakage";"Water Leakage reported at 51461 James Shore Apt. 902";"Resolved";1;"2025-03-07 10:21:41";"2025-05-18 01:59:31";5;1719
+480;908;1;"Garbage Pickup";"Garbage Pickup reported at 855 Joanna Forge Suite 543";"Resolved";5;"2025-01-12 18:44:30";"2025-03-04 19:29:15";5;1224
+481;840;4;"Water Leakage";"Water Leakage reported at 667 Thomas Mountains Suite 863";"Resolved";2;"2025-03-12 02:18:56";"2025-05-23 19:07:32";5;1744
+482;82;4;"Water Leakage";"Water Leakage reported at 45085 Brown Place";"Resolved";3;"2025-04-30 15:02:48";"2025-05-25 15:50:09";5;600
+484;159;4;"Streetlight Outage";"Streetlight Outage reported at 8541 Price Garden Suite 939";"Resolved";2;"2025-01-26 23:20:19";"2025-06-08 00:49:49";4;3169
+485;216;3;"Streetlight Outage";"Streetlight Outage reported at 0859 Nathan Haven Suite 852";"Resolved";4;"2025-05-24 23:03:36";"2025-06-10 13:54:36";3;398
+486;84;2;"Streetlight Outage";"Streetlight Outage reported at 165 Mcclure Bypass Suite 879";"Resolved";5;"2025-02-19 05:52:03";"2025-04-15 09:32:53";3;1323
+489;36;2;"Streetlight Outage";"Streetlight Outage reported at 0961 Hernandez Throughway";"Resolved";4;"2025-02-19 12:48:50";"2025-02-24 19:05:42";2;126
+490;969;3;"Streetlight Outage";"Streetlight Outage reported at 8044 Wilson Ville";"Resolved";3;"2025-01-22 00:58:39";"2025-05-20 07:18:38";1;2838
+491;440;1;"Streetlight Outage";"Streetlight Outage reported at 5030 Chavez Tunnel Suite 696";"Resolved";4;"2025-02-13 05:08:29";"2025-04-15 02:07:48";2;1460
+493;391;2;"Road Damage";"Road Damage reported at 89394 Dave Parkway Apt. 135";"Resolved";3;"2025-06-04 02:40:10";"2025-06-09 12:46:17";5;130
+503;672;1;"Water Leakage";"Water Leakage reported at 69737 Michael Springs Suite 973";"Resolved";5;"2025-02-15 10:44:01";"2025-03-16 20:27:13";2;705
+505;926;2;"Streetlight Outage";"Streetlight Outage reported at 9326 Kelly Cape";"Resolved";2;"2025-04-14 11:12:11";"2025-05-30 12:50:46";5;1105
+507;507;2;"Streetlight Outage";"Streetlight Outage reported at 53684 Thomas Locks Suite 377";"Resolved";4;"2025-03-27 02:15:58";"2025-05-13 23:36:41";4;1149
+509;183;4;"Water Leakage";"Water Leakage reported at 3428 Hughes Rue Suite 096";"Resolved";4;"2025-03-18 11:08:27";"2025-05-30 05:13:52";3;1746
+518;189;3;"Road Damage";"Road Damage reported at 784 Michael Isle";"Resolved";4;"2025-06-13 08:53:29";"2025-06-13 21:20:56";5;12
+519;897;3;"Road Damage";"Road Damage reported at 71019 Richard Centers Suite 057";"Resolved";3;"2025-03-30 02:04:54";"2025-06-09 22:31:32";1;1724
+520;779;3;"Garbage Pickup";"Garbage Pickup reported at 357 Atkinson Trail Suite 254";"Resolved";1;"2025-05-10 22:59:45";"2025-05-28 10:25:36";2;419
+522;587;3;"Water Leakage";"Water Leakage reported at 219 Smith Lodge Apt. 814";"Resolved";3;"2025-04-22 06:52:05";"2025-05-28 23:48:00";4;880
+524;531;3;"Garbage Pickup";"Garbage Pickup reported at 3674 Roberts Fort";"Resolved";2;"2025-04-28 19:52:04";"2025-05-07 10:46:41";4;206
+528;51;4;"Road Damage";"Road Damage reported at 73387 Oconnell Grove Suite 575";"Resolved";5;"2025-03-09 12:33:59";"2025-06-09 19:48:48";3;2215
+533;804;4;"Streetlight Outage";"Streetlight Outage reported at 800 Johnson Island Apt. 414";"Resolved";3;"2025-01-12 20:13:42";"2025-04-17 10:38:20";1;2270
+537;1;3;"Road Damage";"Road Damage reported at 6034 Reeves Vista Suite 359";"Resolved";5;"2025-04-22 12:46:47";"2025-04-26 04:49:22";3;88
+541;185;1;"Garbage Pickup";"Garbage Pickup reported at 2459 Adams Fall";"Resolved";2;"2025-02-22 17:15:43";"2025-03-26 08:52:16";1;759
+551;520;3;"Water Leakage";"Water Leakage reported at 0672 Katherine Crossing Suite 858";"Resolved";5;"2025-02-26 00:55:38";"2025-03-25 23:53:53";3;670
+553;151;1;"Water Leakage";"Water Leakage reported at 64002 Kristen Spring Apt. 654";"Resolved";1;"2025-02-01 08:51:59";"2025-02-18 18:25:49";1;417
+570;161;3;"Streetlight Outage";"Streetlight Outage reported at 20660 Monica Loop";"Resolved";3;"2025-03-15 06:52:03";"2025-04-13 17:05:10";2;706
+571;585;4;"Road Damage";"Road Damage reported at 72421 Joseph Mountain";"Resolved";1;"2025-02-27 00:12:58";"2025-04-28 08:47:07";4;1448
+573;446;2;"Streetlight Outage";"Streetlight Outage reported at 507 Amanda Motorway";"Resolved";3;"2025-04-16 05:47:12";"2025-06-03 15:03:28";4;1161
+575;434;1;"Garbage Pickup";"Garbage Pickup reported at 789 Ortiz Neck";"Resolved";5;"2025-03-20 10:03:34";"2025-05-27 01:43:22";2;1623
+578;173;4;"Streetlight Outage";"Streetlight Outage reported at 96596 Meredith Branch";"Resolved";4;"2025-02-09 09:33:33";"2025-04-10 22:23:30";4;1452
+583;742;3;"Water Leakage";"Water Leakage reported at 343 Nichols Well";"Resolved";3;"2025-04-13 19:54:00";"2025-04-20 05:36:34";1;153
+584;288;1;"Road Damage";"Road Damage reported at 803 Bradshaw Plains Suite 881";"Resolved";3;"2025-03-24 20:37:52";"2025-04-01 14:01:35";4;185
+586;31;4;"Streetlight Outage";"Streetlight Outage reported at 386 Young Plains";"Resolved";3;"2025-02-18 14:01:30";"2025-02-19 04:01:07";4;13
+588;452;2;"Garbage Pickup";"Garbage Pickup reported at 62888 Cochran Points Apt. 833";"Resolved";3;"2025-04-02 00:13:25";"2025-05-01 04:53:29";2;700
+594;366;2;"Streetlight Outage";"Streetlight Outage reported at 345 Williams Hollow Suite 990";"Resolved";5;"2025-04-19 19:38:48";"2025-06-12 21:26:16";2;1297
+595;123;2;"Water Leakage";"Water Leakage reported at 4178 Michael Skyway Suite 025";"Resolved";5;"2025-04-16 20:33:00";"2025-05-09 00:44:41";2;532
+598;206;3;"Water Leakage";"Water Leakage reported at 19465 William Square";"Resolved";1;"2025-03-01 08:15:01";"2025-03-22 13:07:50";2;508
+600;301;2;"Water Leakage";"Water Leakage reported at 3473 Padilla Crescent";"Resolved";2;"2025-05-12 15:32:22";"2025-05-14 19:55:48";1;52
+602;327;2;"Streetlight Outage";"Streetlight Outage reported at 45823 Park Cape Suite 099";"Resolved";2;"2025-04-10 00:53:51";"2025-04-29 03:11:53";3;458
+604;365;4;"Streetlight Outage";"Streetlight Outage reported at 20385 Kirby Centers Apt. 644";"Resolved";2;"2025-05-27 20:34:11";"2025-05-28 21:27:16";4;24
+611;401;4;"Road Damage";"Road Damage reported at 21314 Mccarthy Way Suite 779";"Resolved";1;"2025-03-11 23:56:18";"2025-05-11 00:54:06";4;1440
+616;79;3;"Garbage Pickup";"Garbage Pickup reported at 61123 Jason Flat";"Resolved";5;"2025-04-09 07:44:20";"2025-04-27 01:39:58";5;425
+617;808;2;"Water Leakage";"Water Leakage reported at 1329 Michael Spur";"Resolved";2;"2025-02-04 02:32:32";"2025-04-28 04:44:24";2;1994
+618;143;4;"Streetlight Outage";"Streetlight Outage reported at 44178 Henderson Rapid";"Resolved";1;"2025-04-09 00:25:54";"2025-06-12 03:14:53";3;1538
+620;30;2;"Road Damage";"Road Damage reported at 474 Steele Flat";"Resolved";2;"2025-01-08 03:57:20";"2025-06-09 11:42:14";1;3655
+621;335;3;"Road Damage";"Road Damage reported at 90820 Kimberly Wall";"Resolved";1;"2025-04-29 19:40:55";"2025-06-07 12:24:25";3;928
+625;121;1;"Road Damage";"Road Damage reported at 21213 Hardin Summit Apt. 305";"Resolved";4;"2025-04-05 06:33:39";"2025-06-11 23:07:12";1;1624
+626;326;4;"Streetlight Outage";"Streetlight Outage reported at 63969 Gamble Highway";"Resolved";3;"2025-03-09 07:07:25";"2025-06-02 17:28:18";5;2050
+628;695;1;"Garbage Pickup";"Garbage Pickup reported at 836 Chris Walks Apt. 418";"Resolved";1;"2025-02-19 00:26:22";"2025-02-26 14:01:24";3;181
+629;264;2;"Streetlight Outage";"Streetlight Outage reported at 5307 Day Village Apt. 577";"Resolved";3;"2025-03-30 18:28:22";"2025-04-20 22:44:56";3;508
+631;84;1;"Streetlight Outage";"Streetlight Outage reported at 8674 Jacqueline Shores";"Resolved";4;"2025-02-06 17:59:08";"2025-02-10 09:15:05";5;87
+634;753;2;"Water Leakage";"Water Leakage reported at 68064 Andrews Passage";"Resolved";2;"2025-05-22 11:17:16";"2025-05-27 04:55:07";3;113
+635;543;4;"Garbage Pickup";"Garbage Pickup reported at 369 Bradley Garden Apt. 398";"Resolved";3;"2025-04-09 10:08:06";"2025-05-03 03:34:18";5;569
+636;819;2;"Water Leakage";"Water Leakage reported at 1692 Joshua Parkways Apt. 087";"Resolved";1;"2025-03-21 14:16:51";"2025-04-23 02:30:50";1;780
+641;394;4;"Garbage Pickup";"Garbage Pickup reported at 127 Johnson Plains";"Resolved";5;"2025-02-27 21:26:59";"2025-05-31 17:46:13";2;2228
+646;560;1;"Water Leakage";"Water Leakage reported at 70382 Carr Shoals";"Resolved";5;"2025-02-25 15:09:12";"2025-03-06 19:43:21";4;220
+648;397;3;"Road Damage";"Road Damage reported at 31836 Bentley Skyway";"Resolved";3;"2025-06-08 20:54:19";"2025-06-10 03:34:00";5;30
+654;124;1;"Road Damage";"Road Damage reported at 5732 Crystal Freeway";"Resolved";1;"2025-01-05 01:26:29";"2025-03-22 04:01:26";1;1826
+655;798;2;"Garbage Pickup";"Garbage Pickup reported at 873 Deleon Course Suite 172";"Resolved";3;"2025-01-05 19:55:46";"2025-04-26 16:58:06";2;2661
+672;721;1;"Garbage Pickup";"Garbage Pickup reported at 0969 Johnson Neck Suite 071";"Resolved";4;"2025-03-03 07:57:34";"2025-06-04 15:55:05";4;2239
+676;143;2;"Water Leakage";"Water Leakage reported at 55658 Morales Plaza";"Resolved";4;"2025-04-29 04:55:54";"2025-05-15 06:24:35";3;385
+679;665;4;"Road Damage";"Road Damage reported at 04961 Walker Ways";"Resolved";4;"2025-02-21 03:10:37";"2025-04-22 13:50:16";2;1450
+681;954;2;"Garbage Pickup";"Garbage Pickup reported at 828 Elaine Flats Suite 542";"Resolved";3;"2025-05-14 20:06:37";"2025-06-03 23:57:30";2;483
+682;73;4;"Streetlight Outage";"Streetlight Outage reported at 080 Ian Curve";"Resolved";4;"2025-04-13 13:30:13";"2025-04-22 22:11:35";2;224
+685;423;1;"Garbage Pickup";"Garbage Pickup reported at 6633 Lang Pines Apt. 915";"Resolved";2;"2025-02-10 11:23:26";"2025-03-04 10:48:10";3;527
+686;873;3;"Streetlight Outage";"Streetlight Outage reported at 08825 Deborah Union";"Resolved";4;"2025-02-11 07:02:10";"2025-04-29 11:51:02";3;1852
+694;454;2;"Water Leakage";"Water Leakage reported at 264 Anthony Valley";"Resolved";5;"2025-02-10 19:22:25";"2025-02-19 20:52:55";5;217
+699;202;2;"Road Damage";"Road Damage reported at 91345 David Grove Suite 016";"Resolved";2;"2025-05-19 23:08:51";"2025-06-08 06:54:10";5;463
+700;578;3;"Streetlight Outage";"Streetlight Outage reported at 117 Richard Ville Apt. 757";"Resolved";3;"2025-03-08 06:39:12";"2025-05-04 20:38:36";1;1381
+702;673;1;"Streetlight Outage";"Streetlight Outage reported at 4451 Hanson Fields";"Resolved";2;"2025-04-10 20:19:19";"2025-06-13 20:20:50";1;1536
+706;543;1;"Road Damage";"Road Damage reported at 59898 Michelle Ranch Suite 347";"Resolved";1;"2025-02-07 02:01:50";"2025-02-27 21:39:47";2;499
+711;524;4;"Road Damage";"Road Damage reported at 371 Greg Shoal Apt. 186";"Resolved";5;"2025-06-06 07:16:21";"2025-06-09 11:18:59";4;76
+712;936;3;"Water Leakage";"Water Leakage reported at 463 Emily Flat Apt. 430";"Resolved";2;"2025-01-31 01:48:53";"2025-03-10 00:07:45";1;910
+713;429;3;"Streetlight Outage";"Streetlight Outage reported at 2170 David Run Apt. 587";"Resolved";5;"2025-01-30 23:52:08";"2025-03-08 01:12:42";5;865
+718;977;1;"Streetlight Outage";"Streetlight Outage reported at 0763 Vasquez Station Apt. 181";"Resolved";4;"2025-05-06 18:17:12";"2025-05-27 18:10:18";4;503
+721;857;3;"Garbage Pickup";"Garbage Pickup reported at 96570 Rodgers Shore";"Resolved";5;"2025-04-19 00:35:35";"2025-05-10 23:29:02";2;526
+722;293;2;"Road Damage";"Road Damage reported at 7950 Green Groves";"Resolved";3;"2025-04-26 09:29:26";"2025-06-05 23:04:05";3;973
+725;46;1;"Garbage Pickup";"Garbage Pickup reported at 94045 Parsons Square Apt. 052";"Resolved";4;"2025-03-28 01:15:48";"2025-05-19 08:36:08";3;1255
+729;718;3;"Road Damage";"Road Damage reported at 1203 Moore Forges";"Resolved";1;"2025-06-07 11:35:23";"2025-06-09 23:49:58";3;60
+733;145;4;"Water Leakage";"Water Leakage reported at 55518 Richardson Neck Apt. 808";"Resolved";1;"2025-02-16 11:11:51";"2025-04-27 08:00:28";4;1676
+734;649;4;"Road Damage";"Road Damage reported at 20238 Richard Fields Apt. 258";"Resolved";4;"2025-03-19 04:49:47";"2025-05-05 06:24:49";5;1129
+737;434;3;"Road Damage";"Road Damage reported at 93675 Mccarthy Points";"Resolved";4;"2025-04-03 21:37:18";"2025-04-15 15:17:40";2;281
+743;611;1;"Streetlight Outage";"Streetlight Outage reported at 0483 James Ports Apt. 159";"Resolved";5;"2025-02-16 19:24:17";"2025-05-01 16:14:16";2;1772
+747;493;4;"Road Damage";"Road Damage reported at 3404 Brenda Mission";"Resolved";5;"2025-04-27 22:46:06";"2025-04-30 13:17:06";3;62
+749;148;2;"Garbage Pickup";"Garbage Pickup reported at 6514 Jason Grove";"Resolved";3;"2025-04-13 22:23:34";"2025-04-15 18:08:11";1;43
+754;319;4;"Streetlight Outage";"Streetlight Outage reported at 92488 Martinez Dam";"Resolved";4;"2025-01-09 13:58:50";"2025-05-05 11:02:39";3;2781
+757;947;3;"Water Leakage";"Water Leakage reported at 785 Robbins Camp";"Resolved";5;"2025-05-27 16:52:33";"2025-05-28 16:40:00";1;23
+759;25;4;"Water Leakage";"Water Leakage reported at 25904 Ellis Inlet Suite 696";"Resolved";4;"2025-02-04 04:23:24";"2025-06-11 06:29:41";4;3050
+760;934;3;"Streetlight Outage";"Streetlight Outage reported at 306 Angela Meadow";"Resolved";4;"2025-05-17 19:12:45";"2025-06-12 10:15:54";2;615
+763;190;2;"Water Leakage";"Water Leakage reported at 9058 Martha Well";"Resolved";5;"2025-03-07 00:09:41";"2025-05-15 15:14:47";2;1671
+781;876;3;"Streetlight Outage";"Streetlight Outage reported at 9765 Aguilar River";"Resolved";3;"2025-03-19 17:16:04";"2025-05-26 14:32:11";1;1629
+785;672;3;"Road Damage";"Road Damage reported at 14753 Good Burg Suite 429";"Resolved";2;"2025-03-25 02:43:25";"2025-05-10 12:00:17";2;1113
+787;323;1;"Garbage Pickup";"Garbage Pickup reported at 7357 Robert Gardens";"Resolved";2;"2025-06-01 16:17:17";"2025-06-03 12:21:20";2;44
+789;490;1;"Road Damage";"Road Damage reported at 9828 Navarro Tunnel";"Resolved";2;"2025-06-13 00:58:22";"2025-06-16 07:26:56";5;78
+790;872;3;"Water Leakage";"Water Leakage reported at 94609 Jennifer Summit";"Resolved";1;"2025-01-31 08:10:36";"2025-06-11 22:09:22";2;3157
+791;360;1;"Water Leakage";"Water Leakage reported at 7059 Melanie Shores";"Resolved";1;"2025-03-29 16:13:37";"2025-05-29 16:24:59";3;1464
+795;404;3;"Streetlight Outage";"Streetlight Outage reported at 738 Sarah Circles Suite 785";"Resolved";3;"2025-04-06 03:07:04";"2025-05-15 02:18:13";1;935
+798;697;2;"Water Leakage";"Water Leakage reported at 32284 Stacey Mills Apt. 579";"Resolved";5;"2025-03-02 02:58:07";"2025-05-14 13:17:35";5;1762
+800;160;1;"Garbage Pickup";"Garbage Pickup reported at 4257 Myers Avenue Apt. 217";"Resolved";1;"2025-01-14 19:11:38";"2025-02-15 02:21:39";2;751
+801;743;1;"Garbage Pickup";"Garbage Pickup reported at 6209 Patricia Estate";"Resolved";2;"2025-06-13 02:34:35";"2025-06-14 10:18:03";2;31
+803;213;3;"Garbage Pickup";"Garbage Pickup reported at 70152 Thompson Forest Apt. 956";"Resolved";4;"2025-05-29 05:04:18";"2025-06-01 05:06:20";4;72
+805;743;4;"Streetlight Outage";"Streetlight Outage reported at 26485 Wagner Road Apt. 247";"Resolved";2;"2025-02-13 23:31:00";"2025-06-09 12:30:06";4;2772
+806;699;4;"Garbage Pickup";"Garbage Pickup reported at 58591 Hill Island Apt. 195";"Resolved";1;"2025-02-26 23:19:06";"2025-04-14 22:31:56";3;1127
+809;503;2;"Streetlight Outage";"Streetlight Outage reported at 682 Nicholas Points";"Resolved";2;"2025-05-25 18:43:02";"2025-06-09 09:47:17";4;351
+810;31;1;"Water Leakage";"Water Leakage reported at 251 Carson Cliffs Apt. 634";"Resolved";4;"2025-04-29 14:02:20";"2025-05-29 09:45:27";3;715
+813;982;3;"Streetlight Outage";"Streetlight Outage reported at 668 Johnson Island Suite 383";"Resolved";4;"2025-06-03 07:57:55";"2025-06-10 15:05:54";4;175
+815;23;2;"Garbage Pickup";"Garbage Pickup reported at 8002 April Centers";"Resolved";2;"2025-02-14 13:52:20";"2025-06-06 14:39:18";1;2688
+820;913;4;"Streetlight Outage";"Streetlight Outage reported at 1065 Ewing Via";"Resolved";2;"2025-05-04 11:00:19";"2025-06-04 13:36:29";1;746
+822;685;3;"Garbage Pickup";"Garbage Pickup reported at 30652 Cory Plain Apt. 334";"Resolved";4;"2025-02-14 01:10:43";"2025-03-22 16:09:53";1;878
+824;910;4;"Water Leakage";"Water Leakage reported at 11246 James Crest";"Resolved";4;"2025-04-06 12:07:34";"2025-04-23 22:18:54";4;418
+828;658;2;"Road Damage";"Road Damage reported at 2765 Nash Fords Apt. 772";"Resolved";1;"2025-03-28 23:49:33";"2025-04-28 13:35:03";3;733
+836;544;4;"Garbage Pickup";"Garbage Pickup reported at 37010 Amanda Harbors Suite 066";"Resolved";4;"2025-05-28 17:54:08";"2025-06-11 12:42:01";3;330
+843;246;1;"Water Leakage";"Water Leakage reported at 4925 Marie Divide";"Resolved";4;"2025-04-03 18:35:18";"2025-06-12 16:37:11";5;1678
+844;418;3;"Water Leakage";"Water Leakage reported at 15471 Jenkins Island Apt. 919";"Resolved";5;"2025-03-17 12:27:50";"2025-05-05 22:52:32";3;1186
+849;291;2;"Garbage Pickup";"Garbage Pickup reported at 34444 Kelly Key Apt. 381";"Resolved";4;"2025-05-09 22:57:12";"2025-06-03 19:11:38";1;596
+851;235;1;"Water Leakage";"Water Leakage reported at 66884 Swanson Stream";"Resolved";3;"2025-04-25 17:25:18";"2025-05-24 16:16:41";3;694
+852;931;3;"Garbage Pickup";"Garbage Pickup reported at 989 Edward Dale";"Resolved";3;"2025-06-02 07:53:11";"2025-06-13 01:26:19";4;257
+853;392;4;"Road Damage";"Road Damage reported at 3569 Nicholas Fall Suite 548";"Resolved";4;"2025-03-14 04:55:07";"2025-06-09 05:15:36";3;2088
+855;728;1;"Water Leakage";"Water Leakage reported at 6243 Sandra Walk";"Resolved";4;"2025-06-07 13:26:55";"2025-06-12 00:53:11";3;107
+856;38;3;"Garbage Pickup";"Garbage Pickup reported at 70298 Brown Rapids Suite 786";"Resolved";3;"2025-03-01 12:43:01";"2025-04-18 17:05:45";3;1156
+857;342;1;"Road Damage";"Road Damage reported at 0294 Watts Track Apt. 335";"Resolved";2;"2025-02-15 04:29:20";"2025-04-06 23:04:01";2;1218
+859;46;3;"Streetlight Outage";"Streetlight Outage reported at 010 Cline Inlet";"Resolved";3;"2025-04-12 10:27:08";"2025-05-20 01:06:24";3;902
+862;527;3;"Road Damage";"Road Damage reported at 393 Robert Street";"Resolved";4;"2025-03-24 23:44:17";"2025-05-25 23:19:55";5;1487
+864;562;4;"Road Damage";"Road Damage reported at 5220 Jennifer Parks Suite 737";"Resolved";4;"2025-05-02 19:43:31";"2025-05-09 21:23:48";4;169
+866;452;2;"Garbage Pickup";"Garbage Pickup reported at 7865 Norris Ville";"Resolved";3;"2025-04-21 23:54:35";"2025-06-13 20:29:23";3;1268
+867;63;4;"Garbage Pickup";"Garbage Pickup reported at 34451 Patrick Common Apt. 728";"Resolved";2;"2025-02-03 14:11:06";"2025-06-09 04:33:35";3;3014
+868;960;3;"Garbage Pickup";"Garbage Pickup reported at 04432 Watson Place Suite 144";"Resolved";3;"2025-02-06 10:07:55";"2025-06-11 14:24:24";5;3004
+869;214;4;"Water Leakage";"Water Leakage reported at 1824 Chapman Trafficway";"Resolved";3;"2025-06-07 14:38:48";"2025-06-14 03:23:26";1;156
+870;978;3;"Road Damage";"Road Damage reported at 757 Randy Rue Suite 022";"Resolved";4;"2025-03-13 01:16:08";"2025-05-23 12:45:08";2;1715
+871;735;3;"Water Leakage";"Water Leakage reported at 52574 Scott Prairie";"Resolved";4;"2025-03-01 15:58:21";"2025-06-11 14:51:45";3;2446
+875;365;3;"Road Damage";"Road Damage reported at 705 Alicia Isle";"Resolved";5;"2025-04-21 18:44:28";"2025-06-11 03:57:24";2;1209
+877;686;1;"Streetlight Outage";"Streetlight Outage reported at 81191 Mark Prairie Apt. 039";"Resolved";1;"2025-04-15 16:27:52";"2025-06-01 19:48:08";5;1131
+878;423;3;"Streetlight Outage";"Streetlight Outage reported at 27266 Stone Plains Apt. 898";"Resolved";5;"2025-01-15 22:35:52";"2025-05-21 05:31:00";1;3006
+882;38;1;"Garbage Pickup";"Garbage Pickup reported at 771 Matthew Turnpike";"Resolved";1;"2025-03-29 02:17:50";"2025-04-09 10:32:58";2;272
+886;268;1;"Garbage Pickup";"Garbage Pickup reported at 8082 Nicole Track";"Resolved";3;"2025-05-25 17:06:30";"2025-05-31 09:37:22";2;136
+888;553;2;"Water Leakage";"Water Leakage reported at 8606 Emily Pass";"Resolved";2;"2025-03-24 12:45:54";"2025-04-16 07:58:49";3;547
+891;245;3;"Road Damage";"Road Damage reported at 093 Patricia Branch Suite 482";"Resolved";4;"2025-05-31 05:37:16";"2025-06-13 23:16:43";5;329
+898;259;3;"Water Leakage";"Water Leakage reported at 24750 Michael Viaduct";"Resolved";1;"2025-02-01 23:17:51";"2025-04-02 10:54:55";1;1427
+901;27;2;"Streetlight Outage";"Streetlight Outage reported at 7792 Cynthia Village Suite 307";"Resolved";1;"2025-05-16 21:31:58";"2025-05-28 08:43:44";5;275
+902;302;3;"Water Leakage";"Water Leakage reported at 79663 Patton Circles";"Resolved";1;"2025-01-23 17:07:21";"2025-04-19 17:54:05";4;2064
+903;464;1;"Garbage Pickup";"Garbage Pickup reported at 78616 Kevin Trafficway";"Resolved";4;"2025-01-27 10:58:59";"2025-02-01 09:54:50";3;118
+904;411;3;"Streetlight Outage";"Streetlight Outage reported at 3784 Harris Burgs Apt. 875";"Resolved";1;"2025-03-07 19:42:11";"2025-03-13 07:00:01";4;131
+907;475;1;"Streetlight Outage";"Streetlight Outage reported at 015 Amanda Greens Apt. 931";"Resolved";3;"2025-03-24 03:58:24";"2025-05-08 05:29:34";2;1081
+911;757;2;"Streetlight Outage";"Streetlight Outage reported at 9198 Samantha Ridge Suite 482";"Resolved";4;"2025-01-25 06:47:35";"2025-02-06 02:45:56";1;283
+914;837;1;"Water Leakage";"Water Leakage reported at 082 Henderson Hills";"Resolved";2;"2025-02-03 07:23:50";"2025-03-29 11:57:31";1;1300
+917;617;4;"Road Damage";"Road Damage reported at 869 Dixon Turnpike";"Resolved";5;"2025-06-13 21:30:26";"2025-06-14 12:01:24";1;14
+921;864;1;"Road Damage";"Road Damage reported at 242 Donald Ranch Suite 406";"Resolved";4;"2025-05-27 03:44:48";"2025-06-14 12:58:35";4;441
+922;23;3;"Streetlight Outage";"Streetlight Outage reported at 61662 David Summit";"Resolved";3;"2025-03-23 14:23:25";"2025-05-01 23:29:37";4;945
+923;459;4;"Streetlight Outage";"Streetlight Outage reported at 765 Tiffany Locks";"Resolved";5;"2025-04-13 21:04:33";"2025-04-18 15:11:22";4;114
+924;661;1;"Streetlight Outage";"Streetlight Outage reported at 805 Shields Path Suite 789";"Resolved";4;"2025-02-23 17:49:04";"2025-06-15 22:41:49";5;2692
+925;556;2;"Streetlight Outage";"Streetlight Outage reported at 11542 Donald Walk";"Resolved";1;"2025-01-07 17:14:49";"2025-03-15 05:46:55";5;1596
+926;518;4;"Garbage Pickup";"Garbage Pickup reported at 12331 Brooke Passage";"Resolved";3;"2025-06-14 23:29:53";"2025-06-15 07:38:15";4;8
+928;698;2;"Road Damage";"Road Damage reported at 6940 Thomas Walk Apt. 520";"Resolved";4;"2025-05-20 07:42:06";"2025-06-16 04:06:17";1;644
+942;63;4;"Garbage Pickup";"Garbage Pickup reported at 777 Patricia Passage Apt. 170";"Resolved";2;"2025-02-14 20:57:34";"2025-04-16 18:59:52";3;1462
+948;924;4;"Streetlight Outage";"Streetlight Outage reported at 64407 Reese Mount Apt. 271";"Resolved";3;"2025-02-07 18:28:51";"2025-03-07 06:12:13";3;659
+951;854;4;"Streetlight Outage";"Streetlight Outage reported at 63770 Gallagher Groves Apt. 225";"Resolved";1;"2025-02-09 18:15:21";"2025-04-19 00:54:36";2;1638
+952;326;3;"Road Damage";"Road Damage reported at 8560 Rogers Bridge Apt. 371";"Resolved";5;"2025-01-08 18:30:46";"2025-06-16 06:44:11";1;3804
+954;970;4;"Streetlight Outage";"Streetlight Outage reported at 5417 Lisa Forges Suite 646";"Resolved";2;"2025-05-25 18:38:21";"2025-06-09 03:51:58";3;345
+962;681;3;"Road Damage";"Road Damage reported at 010 Buchanan Island Suite 670";"Resolved";4;"2025-02-03 08:34:46";"2025-06-03 17:34:33";1;2888
+963;208;2;"Garbage Pickup";"Garbage Pickup reported at 62337 Ruiz Glens";"Resolved";1;"2025-03-02 20:40:28";"2025-03-28 16:17:41";5;619
+967;504;2;"Road Damage";"Road Damage reported at 72760 Martinez Cove Suite 677";"Resolved";4;"2025-02-19 22:29:23";"2025-06-02 10:45:04";4;2460
+969;32;2;"Road Damage";"Road Damage reported at 4313 Butler Mill Apt. 047";"Resolved";2;"2025-01-04 00:47:05";"2025-03-15 07:44:56";4;1686
+971;22;3;"Garbage Pickup";"Garbage Pickup reported at 6765 Arias Village";"Resolved";3;"2025-03-14 09:21:13";"2025-04-13 03:05:01";4;713
+973;119;1;"Streetlight Outage";"Streetlight Outage reported at 4313 Jason Ferry Suite 693";"Resolved";2;"2025-05-24 08:36:20";"2025-05-29 07:31:48";4;118
+974;107;2;"Streetlight Outage";"Streetlight Outage reported at 0056 Nathan Meadow Suite 829";"Resolved";4;"2025-02-13 04:21:41";"2025-05-07 08:07:18";5;1995
+975;318;2;"Road Damage";"Road Damage reported at 76640 Lynch Key";"Resolved";5;"2025-02-20 02:38:06";"2025-06-15 22:28:25";5;2779
+976;471;3;"Streetlight Outage";"Streetlight Outage reported at 4573 Fischer Burg";"Resolved";3;"2025-02-02 15:30:49";"2025-05-13 11:43:42";1;2396
+977;168;3;"Streetlight Outage";"Streetlight Outage reported at 32515 Smith Pass";"Resolved";2;"2025-03-27 05:17:01";"2025-04-26 17:20:24";3;732
+981;76;4;"Water Leakage";"Water Leakage reported at 05119 Conrad Via";"Resolved";2;"2025-02-28 00:18:14";"2025-03-17 20:10:53";1;427
+983;917;1;"Garbage Pickup";"Garbage Pickup reported at 80706 Jennings Rest Apt. 496";"Resolved";5;"2025-02-05 06:25:50";"2025-02-07 00:48:18";4;42
+986;682;4;"Streetlight Outage";"Streetlight Outage reported at 06589 Mcdaniel Lights Apt. 071";"Resolved";3;"2025-05-11 08:57:41";"2025-05-23 14:27:33";4;293
+988;859;1;"Road Damage";"Road Damage reported at 89768 Sean Court";"Resolved";3;"2025-03-07 19:33:18";"2025-05-22 15:40:42";4;1820
+992;905;3;"Road Damage";"Road Damage reported at 445 Stacey Center Apt. 499";"Resolved";4;"2025-03-04 13:38:43";"2025-05-04 21:38:16";3;1471
+993;124;2;"Water Leakage";"Water Leakage reported at 78752 Oneill View";"Resolved";2;"2025-05-30 22:45:51";"2025-06-03 19:14:16";4;92
+997;487;1;"Water Leakage";"Water Leakage reported at 540 Diana Cliff";"Resolved";4;"2025-01-07 01:24:25";"2025-02-02 20:50:20";4;643
+998;84;3;"Road Damage";"Road Damage reported at 454 Miller Trafficway";"Resolved";5;"2025-05-10 12:15:12";"2025-05-26 21:37:53";4;393
+1000;36;1;"Water Leakage";"Water Leakage reported at 81076 Morgan Green Apt. 981";"Resolved";4;"2025-03-31 10:26:07";"2025-05-01 01:13:24";4;734
