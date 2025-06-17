@@ -8,7 +8,7 @@ conn = mysql.connector.connect(
     host='localhost',
     user='root',
     password='gokul1808f@',
-    database='sprint1'
+    database='citycarehub'
 )
 
 cursor = conn.cursor()
