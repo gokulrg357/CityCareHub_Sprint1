@@ -1,4 +1,4 @@
-# 🏙️Case Study: CityCareHub – Smart City Complaint & Resource Management Portal on Azure
+# 📘Case Study: CityCareHub – Smart City Complaint & Resource Management Portal on Azure
 
 ## 🌐 Overview
 
