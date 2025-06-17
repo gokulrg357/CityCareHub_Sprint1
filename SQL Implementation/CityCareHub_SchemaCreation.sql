@@ -1,5 +1,5 @@
-create database CityCareHub;
-use CityCareHub;
+create database citycarehub;
+use citycarehub;
 
 -- to curate all the citizens data from citizen raw dataset or csv file
 CREATE TABLE dim_citizens (
