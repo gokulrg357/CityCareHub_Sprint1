@@ -4,9 +4,9 @@ import json
 # MySQL database connection
 conn = mysql.connector.connect(
     host='localhost',
-    user='root',       # Replace with your MySQL username
-    password='gokul1808f@',   # Replace with your MySQL password
-    database='sprint1'    # Replace with your MySQL database name
+    user='root',       
+    password='gokul1808f@',   
+    database='citycarehub'    
 )
 cursor = conn.cursor()
 
