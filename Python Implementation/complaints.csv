@@ -1,0 +1,21 @@
+complaint_id,citizen_id,department_id,description,status,assigned_team_id,created_at,resolved_at,zone_id
+1001,130,3,Illegal parking,Pending,3,2024-06-15 19:48:00,,4
+1002,129,4,Water leakage,Pending,1,2024-06-09 11:13:00,,4
+1003,105,2,Water leakage,In Progress,3,2024-06-07 02:33:00,,4
+1004,108,1,Noise complaint,Pending,1,2024-06-15 08:02:00,,3
+1005,123,4,Streetlight not working,Resolved,1,2024-06-08 06:05:00,2024-06-08 09:05:00,3
+1006,126,5,Drain blockage,In Progress,1,2024-06-10 09:41:00,,4
+1007,123,4,Overflowing dustbin,Resolved,1,2024-06-02 16:11:00,2024-06-02 19:11:00,3
+1008,118,2,Road potholes,Resolved,2,2024-06-15 15:51:00,2024-06-15 19:51:00,2
+1009,105,2,Drain blockage,Resolved,1,2024-06-08 17:27:00,2024-06-08 22:27:00,3
+1010,123,3,Overflowing dustbin,In Progress,3,2024-06-10 18:35:00,,2
+1011,123,3,Noise complaint,Resolved,1,2024-06-02 03:54:00,2024-06-02 08:54:00,3
+1012,107,2,Noise complaint,In Progress,3,2024-06-03 03:48:00,,3
+1013,119,4,Drain blockage,Pending,3,2024-06-12 23:29:00,,3
+1014,118,3,Overflowing dustbin,Pending,3,2024-06-06 20:51:00,,1
+1015,119,5,Streetlight not working,In Progress,3,2024-06-12 18:44:00,,1
+1016,130,5,Overflowing dustbin,In Progress,3,2024-06-11 11:30:00,,2
+1017,106,5,Illegal parking,Resolved,3,2024-06-12 17:22:00,2024-06-12 22:22:00,3
+1018,102,1,Water leakage,Resolved,2,2024-06-05 15:24:00,2024-06-05 18:24:00,4
+1019,127,3,Tree fallen,Resolved,2,2024-06-05 04:46:00,2024-06-05 05:46:00,1
+1020,121,2,Tree fallen,Pending,1,2024-06-15 20:09:00,,3
