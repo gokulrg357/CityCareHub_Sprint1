@@ -1,0 +1,84 @@
+INSERT INTO dim_citizens (citizen_id, name, email, phone, address)
+VALUES (1001, 'Arun Mehta', 'mehta@example.org', '9876543210', 'Sector 45, Noida');
+
+
+INSERT INTO fact_complaints (
+    complaint_id,
+    citizen_id,
+    department_id,
+    complaint_type,
+    description,
+    status,
+    assigned_team_id,
+    created_at,
+    resolved_at,
+    zone_id,
+    resolution_time_hours
+)
+VALUES (
+    2001,
+    1001,
+    2,
+    'Garbage Overflow',
+    'Garbage bins not cleared for 3 days in Sector 45',
+    'Resolved',
+    5,
+    '2025-05-25 10:30:00',
+    '2025-05-25 18:38:21',
+    3,
+    TIMESTAMPDIFF(HOUR, '2025-05-25 10:30:00', '2025-05-25 18:38:21')
+);
+
+
+-- Complaints grouped by department
+SELECT d.department_name, COUNT(c.complaint_id) AS total_complaints
+FROM fact_complaints c
+JOIN dim_departments d ON c.department_id = d.department_id
+GROUP BY d.department_name;
+
+-- Complaints resolved within 24 hours (SLA check)
+SELECT complaint_id, TIMESTAMPDIFF(HOUR, created_at, resolved_at) AS resolution_hours
+FROM fact_complaints
+WHERE status = 'Resolved' AND
+      TIMESTAMPDIFF(HOUR, created_at, resolved_at) <= 24;
+
+-- Feedback with low ratings
+SELECT f.feedback_id, f.rating, f.comment, c.name
+FROM fact_feedback f
+JOIN dim_citizens c ON f.citizen_id = c.citizen_id
+WHERE rating <= 2;
+
+-- Escalate complaints older than 48 hours to "In Progress" if still Open
+UPDATE fact_complaints
+SET status = 'In Progress'
+WHERE citizen_id = 108
+  AND status = 'Open'
+  AND TIMESTAMPDIFF(HOUR, created_at, NOW()) > 48;
+
+SELECT complaint_id, citizen_id, status, created_at, resolved_at
+FROM fact_complaints
+WHERE citizen_id = 108;
+
+-- Reassign a complaint to another team
+UPDATE fact_complaints
+SET assigned_team_id = 2
+WHERE complaint_id = 20;
+
+
+-- Delete complaints that were never resolved and are older than 30 days (if needed for cleanup)
+DELETE FROM fact_complaints
+WHERE complaint_id IN (
+    SELECT complaint_id
+    FROM (
+        SELECT complaint_id
+        FROM fact_complaints
+        WHERE status != 'Resolved'
+          AND created_at < DATE_SUB(NOW(), INTERVAL 30 DAY)
+    ) AS sub
+);
+
+
+
+DELETE FROM fact_complaints
+WHERE complaint_id = 105;
+
